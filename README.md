@@ -2,23 +2,23 @@ Second semester project, recreating the bodger game in C. It's a windowed and an
 
 I'm using in this project :
 
-structures
-files
-Allegro
-list
-recursivity
-pointers
+ - structures
+ - files
+ - Allegro
+ - list
+ - recursivity
+ - pointers
 
 
 The major features are :
 
-2 to 6 players
-autosaving games
-play a saved game
-many animations
-game playable on just one pc
-winners history
-Scooby-Doo universe
+ - 2 to 6 players
+ - autosaving games
+ - play a saved game
+ - many animations
+ - game playable on just one pc
+ - winners history
+ - Scooby-Doo universe
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
